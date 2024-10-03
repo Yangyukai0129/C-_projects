@@ -87,6 +87,8 @@ void stableMarriage(int prefer[2 * N][N])
 
 int main()
 {
+    // 前四個為男生，後四個為女生
+    // 如果要更多人則男女比例是1:1
     int prefer[2 * N][N] = {
         {7, 5, 6, 4},
         {5, 4, 6, 7},
