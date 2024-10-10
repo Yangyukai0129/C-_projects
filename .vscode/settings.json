@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "list": "cpp",
+        "iostream": "cpp"
     }
 }
