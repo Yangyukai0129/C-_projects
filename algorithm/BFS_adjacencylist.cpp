@@ -28,7 +28,6 @@ public:
     }
     void AddEdgeList(int from, int to);
     void BFS(int Start);
-    void printAdjList();
 };
 
 // vertex之間的edge
